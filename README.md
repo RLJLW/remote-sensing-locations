@@ -2,8 +2,15 @@
 
 The following are some potentially useful locations for remote sensing
 
+## New York
 
+New York on Google Maps
+https://www.google.com/maps/@40.6337751,-74.040006,15831m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D
 
+Notes on seperate polarization data comparing HH, VV, and VH data from UAVSAR processed imagery after processing UAVSAR New York Data from 2022 July 12
+Product: newyor_03204_22020_002_220712_L090_CX_129A_020
+ 
+ - 
 
 ## Jamaica (flooded areas) Locations
 
