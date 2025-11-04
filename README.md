@@ -10,7 +10,9 @@ https://www.google.com/maps/@40.6337751,-74.040006,15831m/data=!3m1!1e3?entry=tt
 Notes on seperate polarization data comparing HH, VV, and VH data from UAVSAR processed imagery after processing UAVSAR New York Data from 2022 July 12
 Product: newyor_03204_22020_002_220712_L090_CX_129A_020
  
- - 
+ - Flat surfaces parralel to the UAV's flight line can be clearly seen standing out
+ - HV polarization (depolarization) is much less pronounced than HH and VV generally over the landscape.
+ - Flat fields can seem quite dark in HH, VV, but also in HV, because they don't return significant signal.
 
 ## Jamaica (flooded areas) Locations
 
