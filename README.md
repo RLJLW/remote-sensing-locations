@@ -8,11 +8,22 @@ New York on Google Maps
 https://www.google.com/maps/@40.6337751,-74.040006,15831m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI1MTAyOS4yIKXMDSoASAFQAw%3D%3D
 
 Notes on seperate polarization data comparing HH, VV, and VH data from UAVSAR processed imagery after processing UAVSAR New York Data from 2022 July 12
+
 Product: newyor_03204_22020_002_220712_L090_CX_129A_020
  
+ - NB: using VV factored data we can see material flowing out from the land apparently out of pipes
+ - using VV factored data it appears we may be able to see dark patches near boats
  - Flat surfaces parralel to the UAV's flight line can be clearly seen standing out
  - HV polarization (depolarization) is much less pronounced than HH and VV generally over the landscape.
  - Flat fields can seem quite dark in HH, VV, but also in HV, because they don't return significant signal.
+
+## Lake Travis
+Product: colora_11802_25023_006_250709_L090_CX_01
+
+- Sometimes Island can be seen basically completely submerged in the HH data -  30.399985° -97.892317°
+- Hudson Bebnd with the sandy areas appear to be submerged in HH data (around Eagle Ridge, Emerald Point and Hudson Harbor).
+  Hudson Bend: https://www.google.com/maps/place/Hudson+Bend,+TX,+USA/@30.4168883,-97.931558,6329m/data=!3m1!1e3!4m6!3m5!1s0x865b30f0fbc23671:0x7c869027bce7b2aa!8m2!3d30.4171444!4d-97.9291787!16zL20vMDEwOXhu?entry=ttu&g_ep=EgoyMDI1MTEwMy4wIKXMDSoASAFQAw%3D%3D
+  
 
 ## Jamaica (flooded areas) Locations
 
