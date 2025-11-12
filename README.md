@@ -23,13 +23,41 @@ Product: colora_11802_25023_006_250709_L090_CX_01
 - Sometimes Island can be seen basically completely submerged in the HH data -  30.399985° -97.892317°
 - Hudson Bebnd with the sandy areas appear to be submerged in HH data (around Eagle Ridge, Emerald Point and Hudson Harbor).
   Hudson Bend: https://www.google.com/maps/place/Hudson+Bend,+TX,+USA/@30.4168883,-97.931558,6329m/data=!3m1!1e3!4m6!3m5!1s0x865b30f0fbc23671:0x7c869027bce7b2aa!8m2!3d30.4171444!4d-97.9291787!16zL20vMDEwOXhu?entry=ttu&g_ep=EgoyMDI1MTEwMy4wIKXMDSoASAFQAw%3D%3D
+
+
+## Manilla, Philippines 2025, November 2
+
+https://worldview.earthdata.nasa.gov/?v=119.61931984413201,13.890895470851838,122.08073875597012,15.226722212121498&l=Coastlines_15m,Reference_Features_15m,Reference_Labels_15m,HLS_S30_Nadir_BRDF_Adjusted_Reflectance,OPERA_L3_Dynamic_Surface_Water_Extent-HLS(hidden,disabled=5),Land_Water_Map&lg=true&t=2025-11-02-T20%3A00%3A00Z
+
+## South Philippines 2025, November 6
+
+https://worldview.earthdata.nasa.gov/?v=121.47642404330155,11.227508145491205,126.06868301726315,13.719754512312393&l=Coastlines_15m,Reference_Features_15m,Reference_Labels_15m,HLS_S30_Nadir_BRDF_Adjusted_Reflectance,OPERA_L3_Dynamic_Surface_Water_Extent-HLS(hidden,disabled=5),Land_Water_Map&lg=true&t=2025-11-06-T20%3A00%3A00Z
+
+##Manilla, Philippines 2025 October 28
+
+https://worldview.earthdata.nasa.gov/?v=120.70398442242258,14.403289585805908,121.22420203271541,14.685614789275487&l=Coastlines_15m,Reference_Features_15m,Reference_Labels_15m,HLS_S30_Nadir_BRDF_Adjusted_Reflectance,OPERA_L3_Dynamic_Surface_Water_Extent-HLS(hidden,disabled=5),Land_Water_Map&lg=true&t=2025-10-28-T08%3A00%3A00Z
   
 
 ## Jamaica (flooded areas) Locations
 
 Hurricane Melissa caused severe flooding to Jamaica, if remote sensing data for these locations could be acquired it may enable better support for the people in the disaster.
 
-At the time of 2025/11/1 I've only been able to find NASA imagery before the disaster, but the following locations are listed for in case further data becomes available.
+
+##Pondside / Black River, Jamaica
+
+## October 30
+Is there an increase in flooding near Pondsize / Drodse Point vs October 20?
+https://worldview.earthdata.nasa.gov/?v=-77.98606092908202,17.906730053200235,-77.70406051668027,18.059773360913354&l=Coastlines_15m,Reference_Features_15m,Reference_Labels_15m,HLS_S30_Nadir_BRDF_Adjusted_Reflectance,OPERA_L3_Dynamic_Surface_Water_Extent-HLS(hidden,disabled=5),Land_Water_Map&lg=true&t=2025-10-30-T04%3A00%3A00Z
+
+## October 20
+https://worldview.earthdata.nasa.gov/?v=-77.98606092908202,17.906730053200235,-77.70406051668027,18.059773360913354&l=Coastlines_15m,Reference_Features_15m,Reference_Labels_15m,HLS_S30_Nadir_BRDF_Adjusted_Reflectance,OPERA_L3_Dynamic_Surface_Water_Extent-HLS(hidden,disabled=5),Land_Water_Map&lg=true&t=2025-10-20-T02%3A00%3A00Z
+
+## October 17
+https://worldview.earthdata.nasa.gov/?v=-77.98606092908202,17.906730053200235,-77.70406051668027,18.059773360913354&l=Coastlines_15m,Reference_Features_15m,Reference_Labels_15m,HLS_S30_Nadir_BRDF_Adjusted_Reflectance,OPERA_L3_Dynamic_Surface_Water_Extent-HLS(hidden,disabled=5),Land_Water_Map&lg=true&t=2025-10-17-T02%3A00%3A00Z
+
+https://worldview.earthdata.nasa.gov/?v=-78.06614354661144,17.86427371753429,-77.61849579530943,18.107214825194788&l=Coastlines_15m,Reference_Features_15m,Reference_Labels_15m,HLS_S30_Nadir_BRDF_Adjusted_Reflectance,OPERA_L3_Dynamic_Surface_Water_Extent-HLS(hidden,disabled=5),Land_Water_Map&lg=true&t=2025-10-30-T04%3A00%3A00Z
+
+
 
 #### White House, Jamaica (flooded after Hurricane Melissa) - Google Earth
 
