@@ -24,6 +24,8 @@ Product: colora_11802_25023_006_250709_L090_CX_01
 - Hudson Bebnd with the sandy areas appear to be submerged in HH data (around Eagle Ridge, Emerald Point and Hudson Harbor).
   Hudson Bend: https://www.google.com/maps/place/Hudson+Bend,+TX,+USA/@30.4168883,-97.931558,6329m/data=!3m1!1e3!4m6!3m5!1s0x865b30f0fbc23671:0x7c869027bce7b2aa!8m2!3d30.4171444!4d-97.9291787!16zL20vMDEwOXhu?entry=ttu&g_ep=EgoyMDI1MTEwMy4wIKXMDSoASAFQAw%3D%3D
 
+## See Typhoon Foowong, Landfall on November 9 Near Luzon (North Philippines)
+https://en.wikipedia.org/wiki/Typhoon_Fung-wong_(2025)
 
 ## Manilla, Philippines 2025, November 2
 
