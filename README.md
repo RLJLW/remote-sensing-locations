@@ -2,7 +2,7 @@
 
 Project Status:
 
-Note: This project is temporarily paused, awaiting further time allocation or interest from funders
+Note: This project is temporarily paused, awaiting further time allocation, interest or funding.
 
 
 
