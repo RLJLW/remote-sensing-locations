@@ -1,5 +1,11 @@
 # Remote Sensing Locations
 
+#* Project Status
+
+Note: This project is temporarily paused, awaiting further time allocation or interest from funders
+
+# Locations
+
 The following are some potentially useful locations for remote sensing
 
 ## New York
